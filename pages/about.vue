@@ -164,7 +164,7 @@
 
             <div class="contact-details">
 
-              <div>
+              <!-- <div>
                 <span>Email</span>
                 <a href="mailto:hello@northbridgeadvisory.com">
                   hello@northbridgeadvisory.com
@@ -176,7 +176,7 @@
                 <a href="tel:+18005550184">
                   +1 (800) 555-0184
                 </a>
-              </div>
+              </div> -->
 
             </div>
 

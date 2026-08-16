@@ -363,6 +363,249 @@
       </div>
     </section>
 
+    <section class="nb-perspectives">
+      <div class="container">
+        <div class="perspectives-header">
+          <div>
+            <span class="section-number">
+              NORTHBRIDGE / PROFESSIONAL PERSPECTIVES
+            </span>
+
+            <h2>
+              Hear from NORTHBRIDGE
+              <br />
+              financial professionals.
+            </h2>
+          </div>
+
+          <p>
+            Financial decisions become clearer when they are informed by
+            experience, perspective and a disciplined understanding of the
+            issues that matter most.
+          </p>
+        </div>
+
+        <div class="professionals-grid">
+          <!-- ALEXANDRA -->
+
+          <article class="professional-card">
+            <div class="professional-image">
+              <img
+                src="../public/alexandra.jpeg"
+                alt="NORTHBRIDGE financial professional"
+              />
+
+              <div class="image-overlay"></div>
+
+              <span class="professional-number"> 01 </span>
+
+              <span class="professional-topic"> INVESTMENT STRATEGY </span>
+            </div>
+
+            <div class="professional-content">
+              <div class="professional-quote">“</div>
+
+              <blockquote>
+                The most important investment decision is rarely the one made in
+                response to today's headline. A strong investment strategy
+                begins with understanding what your capital is intended to
+                accomplish, how long it needs to work, and what level of
+                uncertainty you can reasonably accept.
+              </blockquote>
+
+              <div class="professional-bottom">
+                <div>
+                  <h3>Alexandra Morgan</h3>
+
+                  <p>Senior Investment Strategist</p>
+                </div>
+
+                <span class="arrow"> ↗ </span>
+              </div>
+            </div>
+          </article>
+
+          <!-- DANIEL -->
+
+          <article class="professional-card">
+            <div class="professional-image">
+              <img
+                src="../public/daniel.jpeg"
+                alt="NORTHBRIDGE financial professional"
+              />
+
+              <div class="image-overlay"></div>
+
+              <span class="professional-number"> 02 </span>
+
+              <span class="professional-topic"> RETIREMENT </span>
+            </div>
+
+            <div class="professional-content">
+              <div class="professional-quote">“</div>
+
+              <blockquote>
+                Retirement planning is not simply about reaching a savings
+                number. It is about creating a financial structure that can
+                support the life you want after your working years, while
+                leaving room for changing priorities and unexpected events.
+              </blockquote>
+
+              <div class="professional-bottom">
+                <div>
+                  <h3>Daniel Brooks</h3>
+
+                  <p>Retirement Planning Director</p>
+                </div>
+
+                <span class="arrow"> ↗ </span>
+              </div>
+            </div>
+          </article>
+
+          <!-- MICHAEL -->
+
+          <article class="professional-card">
+            <div class="professional-image">
+              <img
+                src="../public/michael.jpeg"
+                alt="NORTHBRIDGE financial professional"
+              />
+
+              <div class="image-overlay"></div>
+
+              <span class="professional-number"> 03 </span>
+
+              <span class="professional-topic"> WEALTH MANAGEMENT </span>
+            </div>
+
+            <div class="professional-content">
+              <div class="professional-quote">“</div>
+
+              <blockquote>
+                Wealth management should bring structure to complexity. As
+                financial lives become more sophisticated, the objective isn't
+                to add more decisions. It is to create a clear framework
+                connecting investments, liquidity, risk and long-term
+                priorities.
+              </blockquote>
+
+              <div class="professional-bottom">
+                <div>
+                  <h3>Michael Bennett</h3>
+
+                  <p>Wealth Management Advisor</p>
+                </div>
+
+                <span class="arrow"> ↗ </span>
+              </div>
+            </div>
+          </article>
+
+          <!-- SARAH -->
+
+          <article class="professional-card">
+            <div class="professional-image">
+              <img
+                src="../public/sarah.jpeg"
+                alt="NORTHBRIDGE financial professional"
+              />
+
+              <div class="image-overlay"></div>
+
+              <span class="professional-number"> 04 </span>
+
+              <span class="professional-topic"> FINANCIAL PLANNING </span>
+            </div>
+
+            <div class="professional-content">
+              <div class="professional-quote">“</div>
+
+              <blockquote>
+                A financial plan should be something you can use, not simply
+                something you keep in a drawer. The most valuable plans give
+                people a clearer understanding of where they are today, what
+                they're working toward and what deserves attention next.
+              </blockquote>
+
+              <div class="professional-bottom">
+                <div>
+                  <h3>Sarah Whitmore</h3>
+
+                  <p>Senior Financial Planner</p>
+                </div>
+
+                <span class="arrow"> ↗ </span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================
+     CEO MESSAGE
+========================================== -->
+
+    <section class="ceo-section">
+      <div class="container">
+        <div class="ceo-layout">
+          <!-- IMAGE -->
+
+          <div class="ceo-image">
+            <img
+              src="../public/ceo.jpg"
+              alt="NORTHBRIDGE Chief Executive Officer"
+            />
+
+            <div class="ceo-image-label">
+              <span>LEADERSHIP</span>
+              <strong>NORTHBRIDGE</strong>
+            </div>
+          </div>
+
+          <!-- CONTENT -->
+
+          <div class="ceo-content">
+            <span class="section-number"> A MESSAGE FROM OUR CEO </span>
+
+            <h2>
+              Financial confidence
+              <br />
+              begins with clarity.
+            </h2>
+
+            <div class="ceo-quote-mark">“</div>
+
+            <blockquote>
+              Our responsibility is not simply to help clients make financial
+              decisions. It is to help them understand those decisions, see how
+              they connect to their broader objectives, and move forward with
+              greater confidence.
+            </blockquote>
+
+            <p class="ceo-description">
+              We believe meaningful financial advice begins with listening.
+              Every client brings a different combination of ambitions,
+              responsibilities and circumstances. Our role is to bring
+              perspective, discipline and thoughtful planning to that individual
+              picture.
+            </p>
+
+            <div class="ceo-signature">
+              <div>
+                <strong> Eddie Wilson </strong>
+
+                <span> Chief Executive Officer </span>
+              </div>
+
+              <span class="ceo-mark"> NORTHBRIDGE </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- CLIENT CTA -->
     <section class="client-home-cta">
       <div class="container">

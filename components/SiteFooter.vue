@@ -50,11 +50,11 @@
       <div class="footer-column">
         <h4>Connect</h4>
 
-        <a href="mailto:hello@northbridgeadvisory.com">
+        <!-- <a href="mailto:hello@northbridgeadvisory.com">
           hello@northbridgeadvisory.com
         </a>
 
-        <a href="tel:+18005550184"> +1 (800) 555-0184 </a>
+        <a href="tel:+18005550184"> +1 (800) 555-0184 </a> -->
 
         <p>
           Monday – Friday<br />
