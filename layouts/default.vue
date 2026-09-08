@@ -1,10 +1,10 @@
-<!-- <template>
-    <div>
+<template>
+    <div class="site-wrapper">
         <slot/>
     </div>
-</template> -->
+</template>
 
-<template>
+<!-- <template>
   <div class="site-wrapper">
     <SiteHeader />
 
@@ -14,7 +14,7 @@
 
     <SiteFooter />
   </div>
-</template>
+</template> -->
 
 <script>
 export default {
