@@ -241,6 +241,25 @@ body {
   min-width: 320px;
 }
 
+.header {
+  background: #fff;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  border-bottom: 1px solid #dedede;
+}
+
+.nav-wrap {
+  min-height: 64px;
+  width: full;
+  margin: 0 154.5px;
+  padding: 2px 32px;
+  display: flex;
+  align-items: center;
+  gap: 27px;
+}
+
 button,
 input {
   font: inherit;
