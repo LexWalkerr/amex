@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     app: {
     head: {
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: 'https://activemail.kagoyamail.jp/am_viz/common/img/standard/am_logo_index.gif' }
+        { rel: 'icon', type: 'image/x-icon', href: 'https://cdn-icons-png.flaticon.com/512/5968/5968245.png' }
       ]
     }
   }

